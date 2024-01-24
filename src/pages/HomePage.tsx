@@ -16,9 +16,6 @@ export const HomePage = () => {
         <Header />
         <Mainvisual />
         <About />
-        <Service />
-        <Company />
-        <Footer />
     </Box>
   );
 };
